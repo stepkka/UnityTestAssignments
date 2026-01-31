@@ -4,6 +4,7 @@
 - Fork this repository into your GitHub account
 - Clone your forked copy
 - Make sure you're using the right Unity version
+- Once you're done, create a pull request to merge the changes into main branch
 
 ## Basic test assignments
 Open BasicTests_Unity project.
